@@ -1,28 +1,14 @@
-# Gogot game development
-I'm currently working on my first indie game in Godot.
-Here are some GIF gameplay samples from the recent build.
+# Pulse Afar game development
+Since April 2026 I'm working on my first indie game Pulse Afar.
 
-*Your're an astronaut on a strange journey*  
-![Exploration](puz01.gif)  
-*solving puzzles*  
-![Exploration](puz02.gif)  
-*meeting alien creatures*  
-![Exploration](puz03.gif)  
-*solving more puzzles*  
-![Exploration](puz04.gif)  
-*forcing barriers*  
-![Exploration](puz05.gif)  
-*finding your way out*  
-![Exploration](puz06.gif)  
-*dashing through the stars*  
-![Exploration](hov01.gif)  
-*sightseeing in zero g*  
-![Exploration](hov03.gif)  
-*casually air walking ???*  
-![Exploration](ez02.gif)  
-*exploring new places*  
-![Exploration](roc01.gif)  
-*finding allies*  
-![Exploration](roc02.gif)  
-*admiring foliage and stargazing*  
-![Exploration](roc03.gif)  
+Pulse Afar is a 2D exploration adventure set in a distant world.
+The player will encounter unusual creatures, clever puzzles and tricky platforming.
+
+Here are some YT videos to check the progress:
+
+https://youtu.be/N4UYv_dB7RQ
+
+https://youtu.be/zK68x3POjIE
+
+
+![Exploration](001.png)  
