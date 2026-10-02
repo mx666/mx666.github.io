@@ -6,9 +6,9 @@ The player will encounter unusual creatures, clever puzzles and tricky platformi
 
 Here are some YT videos to check the progress:
 
-https://youtu.be/N4UYv_dB7RQ
+[https://youtu.be/N4UYv_dB7RQ](https://youtu.be/N4UYv_dB7RQ)
 
-https://youtu.be/zK68x3POjIE
+[https://youtu.be/zK68x3POjIE](https://youtu.be/zK68x3POjIE)
 
 Here are some recent screenshots from when I captured them instead of playing:
 
