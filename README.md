@@ -32,6 +32,4 @@ Here are some recent screenshots from when I captured them instead of playing:
 
 ![Exploration](010.png)  
 
-![Exploration](011.png)  
-
 ![Exploration](012.png)  
