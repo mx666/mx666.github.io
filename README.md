@@ -10,6 +10,19 @@ Here are some YT videos to check the progress:
 
 [https://youtu.be/zK68x3POjIE](https://youtu.be/zK68x3POjIE)
 
+Below you can watch short gameplay samples from the recent build.
+
+![Exploration](outerworld.gif)
+![Exploration](chat by the tree.gif)  
+![Exploration](disk n go.gif)  
+![Exploration](large barrier.gif)  
+![Exploration](small barrier.gif)  
+![Exploration](quick brain.gif)  
+![Exploration](first dive.gif)  
+![Exploration](surfacing.gif)  
+![Exploration](boss fight - long tp.gif)  
+![Exploration](boss fight - railed.gif)  
+
 Here are some recent screenshots from when I captured them instead of playing:
 
 ![Exploration](001.png)
